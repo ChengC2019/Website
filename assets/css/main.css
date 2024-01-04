@@ -196,6 +196,12 @@ input, select, textarea {
   padding: 5px;
 }
 
+.coursetitle {
+	flex: 40 ;
+	text-align: center;
+	padding-right: 0px;
+}
+
 /* Clearfix (clear floats) */
 .row::after {
   content: "";
