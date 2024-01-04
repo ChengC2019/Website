@@ -207,6 +207,14 @@ input, select, textarea {
 	
 }
 
+.coursesection {
+	width: 80% ;
+	display: inline-flex;
+	margin-top: 50px;
+	margin-left: 100px;
+	margin-right:50px;
+}
+
 /* Clearfix (clear floats) */
 .row::after {
   content: "";
