@@ -137,7 +137,7 @@
       background-image: url("../../images/GEORGIA-XH-CW.svg"); }
 
 .ugaheader__nav-container {
-  position: relative;
+  position: fixed;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
