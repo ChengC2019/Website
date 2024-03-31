@@ -216,7 +216,7 @@
     outline-color: #aaa; }
   .ugaheader--red .ugaheader__nav-menu-toggle,
   .ugaheader--black .ugaheader__nav-menu-toggle {
-      color: rgba(255, 255, 255, 0.8); }
+      color: rgba(0, 119, 200, 0.8); }
 
  .ugaheader--red .ugaheader__nav-menu-toggle:hover, .ugaheader--red .ugaheader__nav-menu-toggle:active, .ugaheader--red .ugaheader__nav-menu-toggle:focus, .ugaheader--black .ugaheader__nav-menu-toggle:hover, .ugaheader--black .ugaheader__nav-menu-toggle:active, .ugaheader--black .ugaheader__nav-menu-toggle:focus {
       color: #FFFFFF; }
