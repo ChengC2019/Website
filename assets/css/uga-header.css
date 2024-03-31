@@ -131,7 +131,9 @@
     background-image: url("../../images/GEORGIA-XH-FC.svg"); }
   .ugaheader--red .ugaheader__wordmark-link,
   .ugaheader--black .ugaheader__wordmark-link {
-    background-image: url("../../images/UAH_bluewht.png"); }
+    background-image: url("../../images/UAH_bluewht.png"); 
+    background-size: 200px 100px;  
+  }
   .ugaheader--red .ugaheader__wordmark--shield .ugaheader__wordmark-link,
   .ugaheader--black .ugaheader__wordmark--shield .ugaheader__wordmark-link {
       background-image: url("../../images/GEORGIA-XH-CW.svg"); }
