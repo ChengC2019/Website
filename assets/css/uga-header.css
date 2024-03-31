@@ -132,7 +132,7 @@
   .ugaheader--red .ugaheader__wordmark-link,
   .ugaheader--black .ugaheader__wordmark-link {
     background-image: url("../../images/UAH_wht.png"); 
-    background-size: cover;
+    background-size: 120px auto;
   }
   .ugaheader--red .ugaheader__wordmark--shield .ugaheader__wordmark-link,
   .ugaheader--black .ugaheader__wordmark--shield .ugaheader__wordmark-link {
