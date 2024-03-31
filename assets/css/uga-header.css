@@ -43,9 +43,9 @@
     border-width: 0 0 3px;
     border-style: solid; }
     .ugaheader--border-red {
-      border-color: #BA0C2F; }
+      border-color: #0077C8; }
     .ugaheader--border-black {
-      border-color: #000000; }
+      border-color: #0077C8; }
     .ugaheader--border-white {
       border-color: #FFFFFF; }
   .ugaheader a {
@@ -56,10 +56,10 @@
     .ugaheader a:focus {
       outline-color: #aaa; }
   .ugaheader--red {
-    background: #BA0C2F;
+    background: #0077C8;
     color: #FFFFFF; }
   .ugaheader--black {
-    background: #000000;
+    background: #0077C8;
     color: #FFFFFF; }
   .ugaheader--red a:focus, .ugaheader--black a:focus {
       outline-color: rgba(255, 255, 255, 0.1); }
