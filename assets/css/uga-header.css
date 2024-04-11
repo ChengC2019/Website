@@ -122,12 +122,12 @@
   border: 0;
   display: block;
   width: 188px; 
-  height: 15px;
+  height: 35px;
   background: transparent url("../../images/GEORGIA-HW-1CR.svg") left center no-repeat;
   background-size: contain; }
   .ugaheader__wordmark--shield .ugaheader__wordmark-link {
     width: 177px;
-    height: 20px;
+    height: 25px;
     background-image: url("../../images/GEORGIA-XH-FC.svg"); }
   .ugaheader--red .ugaheader__wordmark-link,
   .ugaheader--black .ugaheader__wordmark-link {
