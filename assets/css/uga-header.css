@@ -123,12 +123,12 @@
   display: block;
   width: 188px; 
   height: 35px;
-  background: transparent url("../../images/GEORGIA-HW-1CR.svg") left center no-repeat;
+  background: transparent url("../../images/UAH_wht.png") left center no-repeat;
   background-size: contain; }
   .ugaheader__wordmark--shield .ugaheader__wordmark-link {
     width: 177px;
     height: 25px;
-    background-image: url("../../images/GEORGIA-XH-FC.svg"); }
+    background-image: url("../../images/UAH_wht.png"); }
   .ugaheader--red .ugaheader__wordmark-link,
   .ugaheader--black .ugaheader__wordmark-link {
     background-image: url("../../images/UAH_wht.png"); 
@@ -136,7 +136,7 @@
   }
   .ugaheader--red .ugaheader__wordmark--shield .ugaheader__wordmark-link,
   .ugaheader--black .ugaheader__wordmark--shield .ugaheader__wordmark-link {
-      background-image: url("../../images/GEORGIA-XH-CW.svg"); }
+      background-image: url("../../images/UAH_wht.png"); }
 
 .ugaheader__nav-container {
   position: relative;
