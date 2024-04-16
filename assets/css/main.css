@@ -1565,7 +1565,14 @@ input, select, textarea {
 			line-height: 1.5em;
 		}
 
-/* Table */
+		.fa.fa-twitter{
+			font-family:sans-serif;
+		}
+		.fa.fa-twitter::before{
+			content:"𝕏";
+			font-size:1.2em;
+		}
+		/* Table */
 
 	table {
 		width: 100%;
