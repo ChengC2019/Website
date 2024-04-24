@@ -109,11 +109,12 @@
             align-items: center; }
 
 .ugaheader__wordmark {
-  padding-top: 16px;
-  padding-bottom: 16px; }
+  padding-top: 25px;
+  padding-bottom: 1px; }
   .ugaheader__wordmark--shield {
-    padding-top: 10px;
-    padding-bottom: 10px; }
+    padding-top: 2px;
+    padding-bottom: 2px;
+    }
 
 .ugaheader__wordmark-link {
   font: 0/0 a;
@@ -122,22 +123,26 @@
   background-color: transparent;
   border: 0;
   display: block;
-  width: 188px; 
-  height: 35px;
-  background: transparent url("../../images/UAH_wht.png") left center no-repeat;
+  width: 300px; 
+  height: 18px;
+  background: transparent url("../../images/UAH_PNG_wht.png") left center no-repeat;
   background-size: contain; }
+  
   .ugaheader__wordmark--shield .ugaheader__wordmark-link {
-    width: 177px;
-    height: 25px;
-    background-image: url("../../images/UAH_wht.png"); }
+    height: 500px;
+    width: 100px;
+    background-image: url("../../images/UAH_PNG_wht.png"); 
+  }
   .ugaheader--red .ugaheader__wordmark-link,
   .ugaheader--black .ugaheader__wordmark-link {
-    background-image: url("../../images/UAH_wht.png"); 
-    background-size: 120px auto;
+    background-image: url("../../images/UAH_PNG_wht.png"); 
+    background-size: 270px auto;
+
   }
   .ugaheader--red .ugaheader__wordmark--shield .ugaheader__wordmark-link,
   .ugaheader--black .ugaheader__wordmark--shield .ugaheader__wordmark-link {
-      background-image: url("../../images/UAH_wht.png"); }
+      background-image: url("../../images/UAH_PNG_wht.png");     
+  }
 
 .ugaheader__nav-container {
   position: relative;
