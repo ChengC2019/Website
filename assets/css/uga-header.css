@@ -123,14 +123,14 @@
   background-color: transparent;
   border: 0;
   display: block;
-  width: 300px; 
+  width: 600px; 
   height: 18px;
   background: transparent url("../../images/UAH_PNG_wht.png") left center no-repeat;
   background-size: contain; }
   
   .ugaheader__wordmark--shield .ugaheader__wordmark-link {
-    height: 500px;
-    width: 100px;
+    height: 700px;
+    width: 200px;
     background-image: url("../../images/UAH_PNG_wht.png"); 
   }
   .ugaheader--red .ugaheader__wordmark-link,

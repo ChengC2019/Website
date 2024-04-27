@@ -125,8 +125,8 @@ body {
     @media (min-width: 768px) {
       .ugafooter__logo-link {
         margin: 0;
-        max-width: 600px;
-        height: 280px;
+        max-width: 380px;
+        height: 250px;
         background-image: url("../../images/UAH_wht.png");
         background-position: left top; } }
   .ugafooter__links-list {
